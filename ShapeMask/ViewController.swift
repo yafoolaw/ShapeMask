@@ -21,9 +21,9 @@ class ViewController: UIViewController {
 
         view.backgroundColor = UIColor.blackColor()
         
-        mask()
+//        mask()
         
-//        emitterMask()
+        emitterMask()
         
     }
     
